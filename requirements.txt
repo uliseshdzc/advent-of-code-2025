@@ -1,4 +1,5 @@
+matplotlib
 pydantic
 pydantic-settings
 requests
-matplotlib
+shapely
