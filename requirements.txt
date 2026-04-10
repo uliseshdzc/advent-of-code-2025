@@ -3,3 +3,4 @@ pydantic
 pydantic-settings
 requests
 shapely
+z3-solver
